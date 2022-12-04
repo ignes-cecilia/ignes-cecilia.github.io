@@ -1,0 +1,133 @@
+@font-face {
+  font-family: Hatton;
+  src: url("../../font/PP Hatton Medium 500.otf");
+  font-family: Gothic;
+  src: url("../../font/MS Gothic.ttf");
+  font-family: Brush;
+  src: url("../../font/brush script mt kursiv.ttf");
+}
+body {
+  background-color: #010E3C;
+  color: #fff;
+  margin: 0 0 0 0;
+}
+body .hey {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 25vh;
+}
+body .bg img {
+  position: absolute;
+  width: 1280px;
+  height: 100vh;
+  z-index: -1;
+}
+body nav {
+  display: flex;
+}
+body nav .ex img {
+  height: 5vh;
+  margin-top: 2vh;
+  margin-left: 2vh;
+}
+body .About-me {
+  margin-top: 10vh;
+}
+body .About-me .me {
+  margin-top: 14vh;
+  margin-left: 20vh;
+}
+body .About-me b {
+  font-family: Cascadia Mono;
+  font-size: 50pt;
+}
+body .About-me p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.4em;
+}
+body .About-me p a {
+  font-size: 1.5em;
+}
+body .ehe {
+  margin-left: -4vh;
+}
+body .edu {
+  margin-left: 25vh;
+  margin-top: 10vh;
+}
+body .edu b {
+  font-family: Cascadia Mono;
+  font-size: 50pt;
+}
+body .edu .sd {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  align-items: center;
+  line-height: 0vh;
+}
+body .edu .sd p {
+  font-size: 1.2em;
+  padding-right: 5vh;
+}
+body .edu .sd span {
+  font-size: 1.2em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body .edu .smp {
+  font-family: Arial, Helvetica, sans-serif;
+  align-items: center;
+  display: flex;
+  line-height: 0vh;
+}
+body .edu .smp p {
+  font-size: 1.2em;
+  padding-right: 5vh;
+}
+body .edu .smp span {
+  font-size: 1.2em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body .edu .smk {
+  font-family: Arial, Helvetica, sans-serif;
+  align-items: center;
+  display: flex;
+  line-height: 0vh;
+}
+body .edu .smk p {
+  font-size: 1.1em;
+  padding-right: 5vh;
+}
+body .edu .smk span {
+  font-size: 1.2em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body .expe {
+  align-content: center;
+}
+body .exp {
+  margin-left: 25vh;
+  margin-right: 30vh;
+  margin-top: 10vh;
+}
+body .exp b {
+  font-family: Cascadia Mono;
+  font-size: 50pt;
+}
+body .exp .xp {
+  font-family: Arial, Helvetica, sans-serif;
+}
+body .exp .xp p {
+  font-size: 1.1em;
+  padding-right: 5vh;
+}
+
+footer {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  padding-bottom: 1.4vh;
+  color: #7983A0;
+  padding-top: 7vh;
+}
+
+/*# sourceMappingURL=avout.css.map */
